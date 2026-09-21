@@ -1,43 +1,44 @@
-# Hi, I'm Andrew Orfin! 👋
+## Haiiiiiiiiii, ヾ(＾∇＾) 
 
-I am a Computer Science and Applied Mathematics student at Stony Brook University. I am currently a member of the Computer Science Honors Program and University Scholars, focusing on systems programming, decentralized storage, and algorithmic analysis.
+It's me... Andrew! Your local friendly internet programmer... (˶˃𐃷˂˶)
 
----
+I'm an undergraduate at Stony Brook University in Computer Science and Applied Mathematics and Statistics. I am interesting in all types of programming from low-level systems programming and memory management to decentralized web applications and machine learning pipelines.
+At Stony Brook I am a part of
+* [DeScAI](https://github.com/DeScAI-Team)
+* Computer Science Honors Program
+* University Scholars
 
-## 🚀 Featured Projects
+🪊 I'm also a jazz-trombonist and the president of **Wolfie's Big Band**: Stony Brook's only no-audition jazz club. 🪊
 
-### 🔗 **DeScAI (Blockchain Business Lab)**
-*   Architected a Node.js storage pipeline using the Turbo SDK to permanently store scientific research reviews and comments as JSON on the Arweave network.
-*   Integrated decentralized data fetching via Vite, React, and TypeScript to map blockchain responses to dynamic UI structures.
+### My Stack 🛠️
 
-### 🤖 **Semantic Analyzer**
-*   Developed a sentiment analysis model in Python using scikit-learn and pandas to classify IMDB movie reviews as positive or negative.
-*   Engineered text preprocessing pipelines using regex and TF-IDF vectorization for feature extraction.
-*   Visualized model performance and classification results using matplotlib.
+Languages: C, Python, JavaScript, TypeScript, Java, SQL, SML, Prolog, HTML5, CSS3 
 
-### 🛠️ **SBML Language Compiler**
-*   Built a Python-based command-line interpreter using PLY (Lex/Yacc) to tokenize and parse a custom SBML-style language.
-*   Implemented a robust Abstract Syntax Tree (AST) that supports function scoping, typed operations, loops, and list/tuple construction.
+Frameworks & Libraries: React, Node.js, Tailwind, ElizaOS, pandas, NumPy, Matplotlib, scikit-learn, Lex/Yacc, regex 
 
----
+Tooling & Environments: Git, Vite, Vitest, Docker, PostgreSQL (pgAdmin), Linux/POSIX, Bun, GDB, Valgrind, AddressSanitizer, VS Code, IntelliJ IDEA, Jupyter, Ollama, GitHub Copilot, OpenAI Codex, Arweave (Permaweb)
 
-## 🛠️ Technical Stack
+### Resume 📄
+![Check it out!!!!!!!!! ( ˶ˆᗜˆ˵ )](https://github.com/andreworfin/andreworfin/blob/main/AndrewOrfinResumeFromGithub.pdf)
 
-*   **Languages:** Python (Lex-Yacc, pandas, NumPy), C, Java, JavaScript, TypeScript, SML, Prolog.
-*   **Technologies:** Node.js, React, Arweave, Git, Vite, Jupyter, VSCode, IntelliJ.
-*   **Specializations:** Decentralized Data, Low Level Systems Programming, Advanced Algorithmn Anaylsis.
+***but beware*** *if you read this you might just end up hiring me 👻*
 
----
+### Connect with Me 🤝
 
-## 🎺 Leadership & Experience
+  <a href="https://www.linkedin.com/in/andreworfin"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:andreworfin@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-*   **DeScAI Developer**: Work with other developers to introduce and integrate arweave functionality to the DeScAi webapp.
-*   **Secretary @ Wolfie's Big Band:** I spearhead logistics and budgeting for community events with over 100 attendees, securing university grants and coordinating musical rehearsals for a 15-person jazz ensemble.
-*   **Academic Tutor:** Directed daily instruction for groups, utilizing adaptive communication to explain technical concepts in math, science, and English.
-
----
-
-## 📬 Connect with Me
-
-*   **LinkedIn:** [linkedin.com/in/andreworfin](https://www.linkedin.com/in/andreworfin/)
-*   **Email:** [andrew.orfin@stonybrook.edu](mailto:andrew.orfin@stonybrook.edu)
+⠀⠀⠀⣸⠋⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠋⢻⡀⠀⠀⠀ \
+⠀⠀⠀⡟⠂⠀⠀⠈⠳⠶⠖⠒⠒⠒⠒⠶⠋⠁⠀⠀⠘⡇⠀⠀⠀\
+⠀⠀⢰⡇⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡄⠀⠀⢷⠀⠀⠀  \
+⠀⠀⢸⡇⠀⠈⠳⢦⡀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⣾⠀⠀⠀  \
+⠀⠀⣼⠗⠀⣴⣾⣟⣿⠓⠀⠀⠀⠀⠐⣿⣿⣳⣦⠀⠀⢹⡄⠀⠀  \
+⠀⢸⡏⠀⠀⠙⠛⠟⠋⠀⠀⠀⠀⠀⠀⠈⠛⠛⠃⠀⠀⠈⢿⡀⠀  \
+⠀⡿⠁⠀⠀⠀⠀⠀⢧⣀⣀⣠⣴⣤⣀⣀⣿⠀⠀⠀⠀⠀⠸⡇⠀  \
+⠀⣧⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⠿⣿⣿⠏⠀⠀⠀⠀⠀⠀⢠⡇⠀  \
+⠀⠘⣇⠀⠀⠀⠀⠀⠀⠀⣹⡛⠀⢸⡏⠀⠀⠀⠀⠀⠀⢀⡾⠅⠀  \
+⠀⠀⢙⡷⠀⠀⠀⠀⠀⠋⠻⣿⣴⡾⠁⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀  \
+⠀⠀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⠀  \
+⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀  \
+⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⡀  \
+⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇  
