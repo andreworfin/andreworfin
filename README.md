@@ -12,6 +12,12 @@ At Stony Brook I am a part of
 
 ---
 
+### Website 🌐
+
+![It's Really Cool so You Gotta Check it Out!!!!!!!!! ( ˶ˆᗜˆ˵ )](https://andreworfin.github.io/)
+
+---
+
 ### My Stack 🛠️
 
 #### Languages:
@@ -55,13 +61,6 @@ At Stony Brook I am a part of
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreworfin/andreworfin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andreworfin/andreworfin/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### Resume 📄
-![Check it out!!!!!!!!! ( ˶ˆᗜˆ˵ )](https://github.com/andreworfin/andreworfin/blob/main/AndrewOrfinResumeFromGithub.pdf)
-
-***but beware*** *if you read this you might just end up hiring me 👻*
 
 ---
 
