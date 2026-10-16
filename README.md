@@ -14,7 +14,7 @@ At Stony Brook I am a part of
 
 ### Website 🌐
 
-![It's Really Cool so You Gotta Check it Out!!!!!!!!! ( ˶ˆᗜˆ˵ )](https://andreworfin.github.io/)
+[It's Really Cool so You Gotta Check it Out!!!!!!!!! ( ˶ˆᗜˆ˵ )](https://andreworfin.github.io/)
 
 ---
 
